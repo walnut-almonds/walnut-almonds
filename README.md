@@ -30,7 +30,7 @@
 
 ### ⚡ Geek Snapshot
 ```txt
-Name      : Kai-Jie Hsu (Alger Hsu)
+Name      : 許凱傑 (Alger Hsu)
 Role      : Backend Engineer
 Stack     : Go, Redis, MySQL, MongoDB, Kafka, gRPC
 Cloud     : AWS, GCP
