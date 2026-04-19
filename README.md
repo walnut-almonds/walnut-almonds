@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  熱愛程式開發與解決問題，專注於 <b>Golang、後端系統、雲端與自動化</b>。<br/>
+  熱愛程式開發與解決問題，專注於 <b>Golang、後端系統、雲端與自動化</b>。
   喜歡把複雜需求做成穩定、可維護、可擴展的服務。
 </p>
 
@@ -24,7 +24,7 @@ Role      : Backend Engineer
 Stack     : Go, Redis, MySQL, MongoDB, Kafka, gRPC
 Cloud     : AWS, GCP
 DevOps    : Docker, Terraform, Ansible, GitLab CI
-Spoken Languages : Chinese / Japanese (JLPT N2) / English
+Spoken Languages  : Chinese / Japanese (JLPT N2) / English
 ```
 
 ### 🧠 What I Do
