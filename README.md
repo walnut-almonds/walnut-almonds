@@ -24,7 +24,7 @@ Role      : Backend Engineer
 Stack     : Go, Redis, MySQL, MongoDB, Kafka, gRPC
 Cloud     : AWS, GCP
 DevOps    : Docker, Terraform, Ansible, GitLab CI
-Language  : Chinese / Japanese (JLPT N2) / English
+Spoken Languages : Chinese / Japanese (JLPT N2) / English
 ```
 
 ### 🧠 What I Do
