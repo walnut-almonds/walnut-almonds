@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <a href="#english">English</a> | <a href="#中文">中文</a> | <a href="#日本語">日本語</a>
+</div>
 
-<!--
-**walnut-almonds/walnut-almonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+
+Welcome to my profile page.
+
+## 中文
+
+哈囉 👋
+
+歡迎來到我的個人主頁。
+
+## 日本語
+
+こんにちは 👋
+
+プロフィールページへようこそ。
