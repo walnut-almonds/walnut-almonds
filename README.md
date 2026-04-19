@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.cake.me/ewew61212">Cake</a> ·
-  <a href="https://www.linkedin.com/in/kai-jie-hsu-b895a5265">LinkedIn</a> ·
-  <a href="https://github.com/walnut-almonds">GitHub</a> ·
-  <a href="https://medium.com/@ewew61212">Medium</a>
+  <a href="https://www.cake.me/ewew61212" aria-label="Visit my Cake profile">Cake</a> ·
+  <a href="https://www.linkedin.com/in/kai-jie-hsu-b895a5265" aria-label="Visit my LinkedIn profile">LinkedIn</a> ·
+  <a href="https://github.com/walnut-almonds" aria-label="Visit my GitHub profile">GitHub</a> ·
+  <a href="https://medium.com/@ewew61212" aria-label="Visit my Medium profile">Medium</a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Role      : Backend Engineer
 Stack     : Go, Redis, MySQL, MongoDB, Kafka, gRPC
 Cloud     : AWS, GCP
 DevOps    : Docker, Terraform, Ansible, GitLab CI
-Spoken Languages  : Chinese / Japanese (JLPT N2) / English
+Spoken Languages: Chinese / Japanese (JLPT N2) / English
 ```
 
 ### 🧠 What I Do
@@ -34,12 +34,12 @@ Spoken Languages  : Chinese / Japanese (JLPT N2) / English
 
 ### 📊 Stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=walnut-almonds&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walnut-almonds&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=walnut-almonds&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics showing contributions and activity" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walnut-almonds&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages chart" />
 </p>
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=walnut-almonds&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=walnut-almonds&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" />
 </p>
 
 ### 🎮 Outside of Code
